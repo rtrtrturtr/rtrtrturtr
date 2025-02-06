@@ -1,6 +1,6 @@
-Header
+![Header](https://github.com/rtrtrturtr/rtrtrturtr/blob/main/assets/bee-rizz-bee-eyebrow.gif)
 
-About me
+### мне лень писать
 
 Latest news about me
 
